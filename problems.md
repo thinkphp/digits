@@ -28,7 +28,7 @@ input -> nr = 12311, output -> nr = 11321 - Nu este palindrom!
 
 ### #7. Construirea unui numar din cifrele altui.
 
-Se da un numar natural nr. Se cere sa se construiasca un numar care va contine toate cifrele pare ale numarului initial in ordinea aparitiei lorin numar. 
+Se da un numar natural nr. Se cere sa se construiasca un numar care va contine toate cifrele pare ale numarului initial in ordinea aparitiei lor in numar. 
 Exemplu: 
 
 Input -> nr = 120346 
