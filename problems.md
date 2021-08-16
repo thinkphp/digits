@@ -7,7 +7,7 @@ Se da un numar natural nr. Sa se scrie un algorithm pentru calcularea sumei cifr
 Se da un numar natural n. Sa se precizeze cate cifre are numarul.
 
 ### #3. Suma cifrelor pare
-Se da un numar natural n. Sa se calculeze suma cifrelor pare din mumarul dat.
+Se da un numar natural n. Sa se calculeze suma cifrelor pare din numarul dat.
 
 ### #4. Cifra minima/maxima
 Se da un numar natural n. Se ce sa se calculeze cifra maxima/minima din numarul dat.
