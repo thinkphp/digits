@@ -18,7 +18,9 @@ Se da un numar natural nr. Se cere sa se determine numarul obtinut din inversare
 ### #6. Testarea proprietatii de palindrom
 Testarea proprietatii de palindrom. Se da un numar natural nr. Se cere sa se verifice daca numarul indeplineste propritatea de palindrom: numarul initial este
 egal cu inversul sau.
+
 Exemplu: input -> nr = 12321, output -> nr = 12321 - Este palindrom!
+
          input -> nr = 12311, output -> nr = 11321 - Nu este palindrom!
              
 
@@ -26,7 +28,9 @@ Exemplu: input -> nr = 12321, output -> nr = 12321 - Este palindrom!
 
 Se da un numar natural nr. Se cere sa se construiasca un numar care va contine toate cifrele pare ale numarului initial in ordinea aparitiei lorin numar. 
 Exemplu: 
+
 Input -> nr = 120346 
+
 Output -> nr' = 2046
 
 ### #8. Cifra de control
