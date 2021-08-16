@@ -37,3 +37,22 @@ peste 9 numarul va lua valoarea acestei sume si se va repeta algoritmul.
 Exemple:
 Input -> nr = 399 
 Output -> 3 + 9 + 9 = 21 = 2 + 1 = 3 Cifra de control va fi 3
+
+### #9. Cifre pare/impare
+Se citeste un numar natural nenul N. Sa se verifice daca cifrele pare si cifrele
+impare alterneaza.
+
+Input -> N = 1234
+Output -> YES
+
+Input -> N = 1223
+Output -> NO
+
+Input -> N = 4729
+Output -> YES
+
+Input -> N = 81
+Output -> YES
+
+Input -> N = 82
+Output -> NO
