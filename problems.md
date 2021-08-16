@@ -19,9 +19,11 @@ Se da un numar natural nr. Se cere sa se determine numarul obtinut din inversare
 Testarea proprietatii de palindrom. Se da un numar natural nr. Se cere sa se verifice daca numarul indeplineste propritatea de palindrom: numarul initial este
 egal cu inversul sau.
 
-Exemplu: input -> nr = 12321, output -> nr = 12321 - Este palindrom!
+Exemple: 
 
-         input -> nr = 12311, output -> nr = 11321 - Nu este palindrom!
+input -> nr = 12321, output -> nr = 12321 - Este palindrom!
+
+input -> nr = 12311, output -> nr = 11321 - Nu este palindrom!
              
 
 ### #7. Construirea unui numar din cifrele altui.
@@ -39,7 +41,9 @@ se obtine calculand in mod repetat suma cifrelor numarului pana cand acesta este
 peste 9 numarul va lua valoarea acestei sume si se va repeta algoritmul.
 
 Exemple:
+
 Input -> nr = 399 
+
 Output -> 3 + 9 + 9 = 21 = 2 + 1 = 3 Cifra de control va fi 3
 
 ### #9. Cifre pare/impare
