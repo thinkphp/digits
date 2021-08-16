@@ -1,7 +1,7 @@
 ## Arhiva de probleme (Editura Niculescu)
 
 ### #1. Suma cifrelor
-Se da un numar natural nr. Sa se scrie un algoritm pentru calcularea sumei numarului dat. Variabila s ce va retine suma cifrelor se va initializa cu zero.
+Se da un numar natural nr. Sa se scrie un algorithm pentru calcularea sumei cifrelor numarului dat. Variabila s ce va retine suma cifrelor se va initializa cu zero.
 
 ### #2. Numarul cifrelor
 Se da un numar natural n. Sa se precizeze cate cifre are numarul.
@@ -27,7 +27,7 @@ Exemplu: input -> nr = 12321, output -> nr = 12321 - Este palindrom!
 Se da un numar natural nr. Se cere sa se construiasca un numar care va contine toate cifrele pare ale numarului initial in ordinea aparitiei lorin numar. 
 Exemplu: 
 Input -> nr = 120346 
-Output -> nr' = 204
+Output -> nr' = 2046
 
 ### #8. Cifra de control
 SE da un numar natural nr. Se cere sa se scrie un program care calculeaza cifra de control a unui numar intreg. Acesta
