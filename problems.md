@@ -36,7 +36,7 @@ Input -> nr = 120346
 Output -> nr' = 2046
 
 ### #8. Cifra de control
-SE da un numar natural nr. Se cere sa se scrie un program care calculeaza cifra de control a unui numar intreg. Acesta
+Se da un numar natural nr. Se cere sa se scrie un program care calculeaza cifra de control a unui numar intreg. Acesta
 se obtine calculand in mod repetat suma cifrelor numarului pana cand acesta este format dintr-o singura cifra. Daca suma va fi o valoare
 peste 9 numarul va lua valoarea acestei sume si se va repeta algoritmul.
 
