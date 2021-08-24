@@ -87,3 +87,9 @@ n = 12315, avem 1 + 5 != 2 + 1 != 3
 
 Output -> NO
 
+### #10. Cyclic Permutation
+Given a number, our task is to generate all the possible cyclic permutations of the number. A cyclic permutation shift all the elements of a set by a fixed offset.
+
+For a set with the elements: a0, a1, a2, ..., an, a cyclic permutatin of one place to the left would yield: a1, a2, ..., an, a0 and a cyclic permutation
+of one place to the right would yield: an, a1, a2,...
+
