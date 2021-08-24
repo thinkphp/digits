@@ -93,3 +93,9 @@ Given a number, our task is to generate all the possible cyclic permutations of 
 For a set with the elements: a0, a1, a2, ..., an, a cyclic permutatin of one place to the left would yield: a1, a2, ..., an, a0 and a cyclic permutation
 of one place to the right would yield: an, a1, a2,...
 
+     Input :  5674
+
+     Output : 5674
+              4567
+              7456
+              6745
