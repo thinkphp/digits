@@ -99,7 +99,7 @@ of one place to the right would yield: an, a1, a2,...
               4567
               7456
               6745
-### #11. Digits of number Ascending/descending/unordered. https://ideone.com/Zdrd4Z
+### #11. Digits of number Ascending/descending/unordered. https://ideone.com/Zdrd4Z Python3 https://ideone.com/fgVuNB c++
 
 Se citeste de la tastatura un numar natural N. Sa se verifice daca
 numarul are cifrele in ordine:
