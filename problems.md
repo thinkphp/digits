@@ -99,3 +99,23 @@ of one place to the right would yield: an, a1, a2,...
               4567
               7456
               6745
+### #11. Digits of number Ascending/descending/unordered. https://ideone.com/Zdrd4Z
+
+Se citeste de la tastatura un numar natural. Sa se verifice daca
+numarul are cifrele in ordine:
+- crescatoare
+- descrescatoare
+- unordered
+
+   Input: n = 1234567
+
+   Output: Ascending ordered.
+
+
+   Input: n = 54321
+   
+   Output: Descending ordered.
+
+   Input: n = 12313
+
+   Output: Unordered.
